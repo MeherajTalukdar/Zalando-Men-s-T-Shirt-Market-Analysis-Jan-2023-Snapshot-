@@ -1,4 +1,4 @@
-# 🛍️ Zalando DE Product — Excel Practice Project
+# Zalando DE Product — Excel Practice Project
 
 > **Dataset:** German Zalando men's basic t-shirts • **999 products** • **21 columns** • Scraped January 2023  
 
@@ -6,10 +6,15 @@
 # Key Stats
 
 Total products       999
+
 Unique brands        145
+
 Products on discount  43%  (432 products)
+
 Average discount      33%
+
 Price range          €6.99 – €99.99
+
 Scan date            2023/1/29 01:31 (Sunday)
 
 
