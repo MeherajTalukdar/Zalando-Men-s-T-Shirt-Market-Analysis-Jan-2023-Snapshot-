@@ -13,8 +13,6 @@ Price range          €6.99 – €99.99
 Scan date            2023/1/29 01:31 (Sunday)
 
 
----
-
 # 20 Excel Practice Questions
 
 # Section 1 — Pricing & Discount Analysis
@@ -207,9 +205,6 @@ Convert the raw text `2023/1/29 1:31` to a proper Excel date, then extract the d
 = WEEKDAY(W2, 2)                                                ← day number (Mon=1)
 = TEXT(W2, "dddd")                                              ← day name
 ```
-> 💡 All 999 rows share the same scan date: **Sunday, 29 January 2023** — the data was collected in a single overnight crawl.
-
----
 
 # Skills Reference
 
